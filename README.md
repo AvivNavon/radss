@@ -19,5 +19,9 @@ A bunch of random DS stuff.
     
 4. [sampling-methods.ipynb](https://github.com/AvivNavon/radss/blob/master/notebooks/sampling-methods.ipynb): Monte Carlo methods and Importance Sampling.
        
-   <img align="center" src="https://github.com/AvivNavon/radss/blob/master/images/mc-pi.gif" width="500">
+ <p align="center">
+ 	<img src="https://github.com/AvivNavon/radss/blob/master/images/mc-pi.gif" width="500">
+ </p> 
+     
+   
 
