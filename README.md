@@ -9,10 +9,10 @@ A bunch of random DS stuff.
     ![](images/umap.gif)
 2. [know-your-boundaries](https://github.com/AvivNavon/radss/blob/master/notebooks/know-your-boundaries.ipynb):
     Visualizing the decision boundaries of commonly used classifiers.
-    ![](images/boundaries.png){:height="700px" width="400px"}
+    ![](images/boundaries.png | width=100)
 3. [bayesian-reinforcement-learning](https://github.com/AvivNavon/radss/blob/master/notebooks/bayesian-reinforcement-learning.ipynb):
     Multi-armed bandit problem, Bayesian reinforcement learning and Thompson sampling.
-    ![](images/ts-brl.gif){:height="700px" width="400px"}
+    ![](images/ts-brl.gif | width=100)
 4. [sampling-methods.ipynb](https://github.com/AvivNavon/radss/blob/master/notebooks/sampling-methods.ipynb):
     Monte Carlo methods and Importance Sampling.
     ![](images/mc-pi.gif)
