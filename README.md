@@ -6,14 +6,13 @@ A bunch of random DS stuff.
 
 1. [visualizing-high-dim-data](https://github.com/AvivNavon/radss/blob/master/notebooks/visualizing-high-dim-data.ipynb):
     Using UMAP, t-SNE and PCA to visualize high-dimensional datasets.
-    ![](images/umap.gif)
+    <img src="https://github.com/AvivNavon/radss/blob/master/images/umap.gif" width="300">
 2. [know-your-boundaries](https://github.com/AvivNavon/radss/blob/master/notebooks/know-your-boundaries.ipynb):
     Visualizing the decision boundaries of commonly used classifiers.
-    ![](images/boundaries.png | width=100)
+    <img src="https://github.com/AvivNavon/radss/blob/master/images/boundaries.png" width="300">
 3. [bayesian-reinforcement-learning](https://github.com/AvivNavon/radss/blob/master/notebooks/bayesian-reinforcement-learning.ipynb):
     Multi-armed bandit problem, Bayesian reinforcement learning and Thompson sampling.
-    ![](images/ts-brl.gif =250x250)
-    <img src="https://github.com/AvivNavon/radss/blob/master/images/ts-brl.gif" width="48">
+    <img src="https://github.com/AvivNavon/radss/blob/master/images/ts-brl.gif" width="300">
 4. [sampling-methods.ipynb](https://github.com/AvivNavon/radss/blob/master/notebooks/sampling-methods.ipynb):
     Monte Carlo methods and Importance Sampling.
     ![](images/mc-pi.gif)
