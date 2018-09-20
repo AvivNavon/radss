@@ -12,7 +12,8 @@ A bunch of random DS stuff.
     ![](images/boundaries.png | width=100)
 3. [bayesian-reinforcement-learning](https://github.com/AvivNavon/radss/blob/master/notebooks/bayesian-reinforcement-learning.ipynb):
     Multi-armed bandit problem, Bayesian reinforcement learning and Thompson sampling.
-    ![](images/ts-brl.gif | width=100)
+    ![](images/ts-brl.gif =250x250)
+    <img src="https://github.com/AvivNavon/radss/blob/master/images/ts-brl.gif" width="48">
 4. [sampling-methods.ipynb](https://github.com/AvivNavon/radss/blob/master/notebooks/sampling-methods.ipynb):
     Monte Carlo methods and Importance Sampling.
     ![](images/mc-pi.gif)
