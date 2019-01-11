@@ -47,3 +47,9 @@ rsconnect/
 
 # data
 *.csv
+
+# txt
+*.txt
+
+# folder
+src
