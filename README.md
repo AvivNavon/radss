@@ -24,10 +24,16 @@ A bunch of random DS stuff.
     <img src="https://github.com/AvivNavon/radss/blob/master/images/ts-brl.gif" width="500">
  </p> 
  
-4. [sampling-methods.ipynb](https://github.com/AvivNavon/radss/blob/master/notebooks/sampling-methods.ipynb): Monte Carlo methods and Importance Sampling.
+4. [sampling-methods](https://github.com/AvivNavon/radss/blob/master/notebooks/sampling-methods.ipynb): Monte Carlo methods and Importance Sampling.
        
  <p align="center">
  	<img src="https://github.com/AvivNavon/radss/blob/master/images/mc-pi.gif" width="450">
+ </p> 
+
+ 5. [the-power-of-mtl](https://github.com/AvivNavon/radss/blob/master/notebooks/the-power-of-mtl.ipynb): A simple demonstration of the power of multi-task learning (MTL) compared to single-task learning (STL) approaches.
+
+ <p align="center">
+ 	<img src="https://github.com/AvivNavon/radss/blob/master/images/mtl-ts-add.gif" width="550">
  </p> 
      
    
